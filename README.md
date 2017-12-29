@@ -1,4 +1,11 @@
 # Outlook Taskboard
+He optado por hacer fork de este fork ya que he visto que tenía implementado aspectos que me parecían muy interesantes. Algunos cambios que he introducido y que son sólo por mi propia forma de hacer uso de la herramienta:1. 
+
+1. He cambiado el title de la columna Waiting por "On hold".
+2. He añadido el botón de edicio son editables conde la columna completed, aunque o son editables con doble click.
+
+--------------A partir de aquí, el texto original del fork.---------------------
+
 Outlook Taskboard is a kanban board style view for Outlook Tasks.
 
 I found the original Kanban board implemented by Evren Varol. I looked at the forks and liked the 
